@@ -1,0 +1,72 @@
+ body{
+    background-image: url(bck.jpg);
+    background-size: cover;
+    padding-bottom: 5px;
+}
+.inl img{
+    box-sizing: border-box;
+    position: absolute;
+    float: left;
+    margin-bottom: 500px;
+}
+.navbar{
+    margin-top: 20px;
+    padding-bottom:  10px ;
+    background-color: rgb(236, 230, 230);
+    border-radius: 50px;
+
+}
+.navbar{
+    overflow:auto;
+    
+}
+.hover li{
+    float: left;
+    list-style-type: none;
+    margin:13px 18px;
+    margin-bottom: 18px;
+}
+.navbar li a{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    background-color:rgb(131, 61, 131);
+    padding:10px 30px;
+    text-decoration:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:whitesmoke;
+    border-radius: 36px;
+}
+ul .search{
+    color:rgb(228, 168, 79);
+    float:right; 
+    margin-right: 30px;
+    margin-top: 10px;
+    padding-top: 3px;
+}
+.search input{
+    width: 80px;
+    height: 28px;
+    margin-bottom:23px;
+    border-radius:30px;
+    border: 2px solid black;
+    
+}
+/*GIET UNIVERSITY,GUNUPUR*/
+h1.bodyanm{
+    margin-top: 300px;
+    text-align:center;
+    /*font-family:'Tangerine', serif;*/
+    color:rgb(121, 21, 91);
+    font-size: 50px;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-iteration-count:infinite;
+}
+/*h1.jsani{
+    font-weight:900;
+    font-size:3.5em;
+    display:inline-block;
+    line-height: 1em;*/
+}
+
+
